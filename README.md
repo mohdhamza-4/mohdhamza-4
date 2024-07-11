@@ -1,5 +1,5 @@
-<h1 styele="text-align: center;">## Hi there 👋 I'm Mohd Hamza</h1>
-<hr>
+<h1>Hi there 👋 I'm Mohd Hamza</h1>
+
 - 🌱 I’m currently learning <b>Python Full Stack Develepor11</b>
 - 🤔 I’m looking for help with 
 - 💬 Ask me about <b>HTML | CSS</b>
