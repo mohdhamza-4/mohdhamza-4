@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>Hi there 👋 I'm Mohd Hamza</h1>
+<h1>Hi there 👋 I'm Mohd Hamza</h1>
 
 - 🌱 I’m currently learning <b>Python Full Stack Develepor at DUCAT </b>
 - 🤔 I’m looking for Partner....
