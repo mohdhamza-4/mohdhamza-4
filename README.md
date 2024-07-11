@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Mohd Hamza
 
-<!--
-**mohdhamza-4/mohdhamza-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ##Python Full Stack Develepor
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
